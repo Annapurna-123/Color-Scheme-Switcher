@@ -1,0 +1,40 @@
+.canvas {
+    display: flex;
+}
+.button {
+    
+    margin: 5px; 
+}
+
+
+#grey{
+    display: flex;
+    background-color: grey;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
+
+#pink{
+
+  
+
+    background-color:pink;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
+
+#green{
+    background-color: green;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
+
+#yellow{
+    background-color: yellow;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
